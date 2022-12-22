@@ -1,6 +1,6 @@
 /************************************************************************************/
 
-/************************Hardware Related Macros************************************/
+/************************Hardware MaKro ************************************/
 #define MQ_PIN                       (0) //tentukan saluran input analog mana yang akan Anda gunakan
 #define RL_VALUE                     (5) //menentukan tahanan beban pada papan, dalam kilo ohm
 #define RO_CLEAN_AIR_FACTOR          (9.83) // RO_CLEAR_AIR_FACTOR=(Resistensi sensor di udara bersih)/RO,
